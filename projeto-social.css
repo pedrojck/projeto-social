@@ -60,3 +60,15 @@ section#redes-sociais img:hover{
     transform: translate(-5px, -5px);
     transition: transform 0.5s, box-shadow 0.7s ;
 }
+div > a{
+    display: block;
+    margin: auto;
+    position: relative;
+    transform: translate(0px, -50px);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(255, 0, 0, 0);
+    margin-left: 49%;
+    margin-right: 49%;
+    
+}
